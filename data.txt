@@ -1,3 +1,4 @@
+Date,Species,Count
 2013-04-26,rabbit,27
 2013-04-26,deer,5
 2013-04-26,coyote,2
