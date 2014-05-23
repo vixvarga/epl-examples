@@ -1,0 +1,10 @@
+Date,Species,Count
+2012-04-25,rabbit,21
+2012-04-26,deer,5
+2012-04-26,coyote,2
+2012-04-27,rabbit,7
+2012-04-27,bear,1
+2012-04-27,coyote,2
+2012-04-27,cougar,1
+2012-04-28,moose,1
+2012-04-29,cougar,2
